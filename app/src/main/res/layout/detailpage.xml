@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:background="#204A60" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#353535"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="18dp"
+            android:background="@drawable/logooo" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviss"
+            android:layout_below="@+id/tviss"
+            android:text="@string/florida"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/small_size" />
+
+        <TextView
+            android:id="@+id/tviCountry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviss"
+            android:layout_below="@+id/tvis"
+            android:text="@string/usa"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/small_size" />
+
+        <TextView
+            android:id="@+id/tviss"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/tvi"
+            android:layout_marginRight="22dp"
+            android:text="@string/ftlauderdale"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/small_size" />
+
+        <TextView
+            android:id="@+id/tvi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviss"
+            android:layout_below="@+id/linearLayout1"
+            android:text="@string/Dalinknet"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/bigsize_size"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/scrl"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/relativeLayout1" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#353535"
+            android:paddingBottom="50dp" >
+
+            <ImageView
+                android:id="@+id/imgDisplay"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:scaleType="fitXY" />
+
+            <LinearLayout
+                android:id="@+id/lla0"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imgDisplay"
+                android:orientation="horizontal"
+                android:padding="2dp" >
+
+                <Gallery
+                    android:id="@+id/gallery"
+                    android:layout_width="fill_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginBottom="2dp"
+                    android:layout_weight="1"
+                    android:gravity="center" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lla1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lla0"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/name"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tviname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/imgDisplay"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lla2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lla1"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="HOSTED BY: "
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvihosted"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tvitype"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lla3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lla2"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/date"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvidate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tvihosted"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lla4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lla3"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/location"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvilocation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tvidate"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llax"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lla4"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/type"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tviType"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tvilocation"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lla5"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/llax"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/Address"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tviaddress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tviType"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lla6"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lla5"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/city"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvicity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lla7"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lla6"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/state"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvistate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tvicity"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lla8"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lla7"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/country"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvicountry"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lla9"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lla8"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/Admission"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tviadmission"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lla10"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lla9"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/Descreption"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvidescription"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <fragment
+                android:id="@+id/mapView"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                class="com.google.android.gms.maps.MapFragment"
+                android:layout_below="@+id/llticket"/>
+
+            <ImageView
+                android:id="@+id/share"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:src="@drawable/share_icon_resized" />
+
+            <LinearLayout
+                android:id="@+id/llticket"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:padding="10dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/lla10"
+                android:background="#353535"
+                android:layout_centerInParent="true"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:id="@+id/btnpromoticket"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@color/dark"
+                    android:padding="5dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#fff"
+                        android:text="Promo tickets available ::: " />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tv_tickts"
+                        android:textColor="#fff"
+                        android:text="0" />
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/btnpurchaseticket"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="2dp"
+                    android:background="@color/dark"
+                    android:padding="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/visa"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#fff"
+                        android:text="Purchase tickets" />
+
+
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="#19384A"
+        android:orientation="horizontal"
+        android:weightSum="2" >
+
+        <Button
+            android:id="@+id/btnBackend"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/btnbackground"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imgcaptureimage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/camera_48" />
+
+        <Button
+            android:id="@+id/btnGalary"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/btnbackground"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>

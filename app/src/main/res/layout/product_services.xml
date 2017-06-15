@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_vertical_margin">
+
+
+    <ListView
+        android:id="@+id/lv_product_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_submit"
+        android:layout_alignParentTop="true"></ListView>
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/ultra_dark"
+        android:text="Go to busket"
+        android:visibility="visible"
+        android:textColor="@color/white" />
+
+    <LinearLayout
+        android:id="@+id/ll_price"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/ultra_dark"
+        android:visibility="gone"
+        android:orientation="horizontal"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Total Price: "
+            android:layout_gravity="center"
+            android:id="@+id/tv_totalprice"
+            android:gravity="center_vertical"
+            android:padding="@dimen/activity_vertical_margin"
+            android:textColor="#fff"/>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btn_payment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/dark"
+            android:text="Payment"
+            android:padding="10dp"
+            android:layout_margin="5dp"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/white" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>

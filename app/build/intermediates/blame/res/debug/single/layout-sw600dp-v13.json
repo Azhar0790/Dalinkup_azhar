@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\popupdialog.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\layout-sw600dp\\popupdialog.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\spinnerpopup.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\layout-sw600dp\\spinnerpopup.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\spinner_item.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\layout-sw600dp\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\second.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\layout-sw600dp\\second.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\detailpage.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\layout-sw600dp\\detailpage.xml"
+    }
+]

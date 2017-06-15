@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "85405947096",
+    "firebase_url": "https://temp-project-162500.firebaseio.com",
+    "project_id": "temp-project-162500",
+    "storage_bucket": "temp-project-162500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85405947096:android:53498d6a2e30ed52",
+        "android_client_info": {
+          "package_name": "com.evs.dalinkup.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85405947096-i55f70sa37b9h2nnlrohqpe6d7jcl6t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB33RmDYTJLO5pkrgZd-8u3E7CulfhIoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

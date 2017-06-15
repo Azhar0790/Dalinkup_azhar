@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/FilterEvents"
+            android:textColor="#446173"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imgClose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/close_window_26" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+          <Spinner
+            android:id="@+id/spnLocation"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/new33"
+            android:padding="10dp" />
+        
+        <Spinner
+            android:id="@+id/spnCountry"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/new33"
+            android:padding="10dp" />
+
+        <Spinner
+            android:id="@+id/spnState"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/new33"
+            android:padding="10dp" />
+
+        <Spinner
+            android:id="@+id/spnCity"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/new33"
+            android:padding="10dp" />
+
+        <Button
+            android:id="@+id/btnDone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btnbackground"
+            android:text="@string/done"
+            android:textColor="@android:color/white"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnClearSellection"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btnbackground"
+            android:text="@string/ClearSelection"
+            android:textColor="@android:color/white"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

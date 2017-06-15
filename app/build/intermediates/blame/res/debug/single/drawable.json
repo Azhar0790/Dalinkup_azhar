@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_splash.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\background_splash.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.6.1\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c2.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\c2.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c1.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\c1.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appp.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\appp.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\visa.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\visa.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minus.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\minus.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_dark_rounded.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\background_button_dark_rounded.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash3.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\splash3.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\llaafterclick3.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\llaafterclick3.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_transparent.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\bg_transparent.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\log.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\log.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new33.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\new33.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_200.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\upload_200.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_48.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\camera_48.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c6.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\c6.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c3.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\c3.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gredient.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\gredient.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottle.jpg",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\bottle.jpg"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\marker.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gredient_hover.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\gredient_hover.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel_48.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\cancel_48.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backbtns.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\backbtns.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android.jpg",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\android.jpg"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_resized_new.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\share_icon_resized_new.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_resized.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\share_icon_resized.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon_.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\app_icon_.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_bg.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\img_bg.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c4.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\c4.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c5.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\c5.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logooo.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\logooo.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\llabackground3.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\llabackground3.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\llabeforeclick3.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\llabeforeclick3.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\your_selector.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\your_selector.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnbackground.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\drawable\\btnbackground.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_dark.xml"
+    }
+]

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imgMyLogo" 
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tvi"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:text="Dalink Ent" />
+
+            <TextView
+                android:id="@+id/tviDJEscratch"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:text="DJ Escratch" />
+
+            <TextView
+                android:id="@+id/tviDJJBlack"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:text="DJ JBlack" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/imgMyLogo"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnLinkUp"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            
+            android:background="#44C6F7"
+            android:text="@string/linkup" />
+
+        <Button
+            android:id="@+id/btnLinkUps"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:background="#44C6F7"
+            android:layout_marginTop="5dp"
+            android:text="@string/linkup" />
+
+        <Button
+            android:id="@+id/btnLinked"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:background="#44C6F7"
+            android:text="@string/linked" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imgMyLogo"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imgClose"
+        android:layout_margin="10dp"
+        android:background="@drawable/upload_200"
+        android:scaleType="fitXY" />
+
+    <ImageView
+        android:id="@+id/imgClose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+         
+        android:layout_alignParentTop="true"
+        android:background="@drawable/cancel_48" />
+
+</RelativeLayout>

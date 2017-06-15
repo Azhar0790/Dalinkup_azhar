@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\my_cert.bks",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\raw\\my_cert.bks"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\my.bks",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\raw\\my.bks"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.6.1\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.mp3",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\raw\\beep.mp3"
+    }
+]

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:background="#204A60" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#353535"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="18dp"
+            android:background="@drawable/log" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviss"
+            android:layout_below="@+id/tviss"
+            android:text="@string/florida"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/small_size" />
+
+        <TextView
+            android:id="@+id/tviCountry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviss"
+            android:layout_below="@+id/tvis"
+            android:text="@string/usa"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/small_size" />
+
+        <TextView
+            android:id="@+id/tviss"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/tvi"
+            android:layout_marginRight="22dp"
+            android:text="@string/ftlauderdale"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/small_size" />
+
+        <TextView
+            android:id="@+id/tvi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviss"
+            android:layout_below="@+id/linearLayout1"
+            android:text="@string/Dalinknet"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/bigsize_size"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/linearLayout3"
+        android:layout_below="@+id/relativeLayout1"
+        android:layout_marginBottom="40dp"
+        android:layout_marginTop="10dp"
+        android:columnWidth="90dp"
+        android:gravity="center"
+        android:horizontalSpacing="10dp"
+        android:numColumns="auto_fit"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="10dp" />
+
+    <LinearLayout
+        android:id="@+id/lla"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="#19384A"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnBackend"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="4dp"
+            android:background="@drawable/btnbackground"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+    </LinearLayout>
+<ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone" />
+</RelativeLayout>

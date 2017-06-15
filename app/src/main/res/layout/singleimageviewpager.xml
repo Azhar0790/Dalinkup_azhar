@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY" >
+    </android.support.v4.view.ViewPager>
+
+    <TextView
+        android:id="@+id/image_des"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="#80303030"
+        android:gravity="center"
+        android:paddingRight="20dp"
+        android:text="image description"
+        android:textColor="@android:color/background_light"
+        android:textSize="20sp" />
+
+</RelativeLayout>

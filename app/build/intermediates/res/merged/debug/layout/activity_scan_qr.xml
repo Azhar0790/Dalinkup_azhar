@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:stackFromBottom="true"
+    android:transcriptMode="alwaysScroll">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/ll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="120dp"
+            android:layout_alignParentLeft="true"
+            android:background="#204A60">
+
+
+            <ImageView
+                android:id="@+id/imglla"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginLeft="8dp"
+                android:background="@drawable/logooo" />
+
+            <TextView
+                android:id="@+id/tvi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:text="@string/Dalinknet"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/bigsize_size"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="#757575"
+            android:orientation="vertical"></LinearLayout>
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/relativeLayout1"
+            android:orientation="vertical"
+            android:id="@+id/ll_barcode"
+            android:visibility="visible"
+            android:layout_above="@+id/ll_strt">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+
+            android:padding="16dp">
+
+            <SurfaceView
+                android:id="@+id/camera_view"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13" />
+
+            <TextView
+                android:id="@+id/tv7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_weight="0.1"
+                android:text=""
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|right"
+                android:layout_weight="0.1"
+                android:text=""
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tv2"
+                android:layout_width="176dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center_horizontal"
+                android:layout_weight="0.1"
+                android:text=""
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tv3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|right"
+                android:layout_weight="0.1"
+                android:text=""
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tv4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.1"
+                android:text=""
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|right"
+                android:layout_weight="0.1"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tv6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center_horizontal"
+
+                android:layout_weight="0.1"
+                android:text=""
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center"
+                android:layout_weight="0.1"
+                android:text="Already Confirmed"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center"
+                android:layout_weight="0.1"
+                android:text="Entry"
+                android:textSize="50dp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+
+
+        </LinearLayout>
+        </ScrollView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_below="@+id/relativeLayout1"
+            android:id="@+id/ll_barcode_img"
+            android:layout_above="@+id/ll_strt"
+            android:visibility="gone">
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/qrcode_text"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:id="@+id/ll_strt"
+            android:layout_alignParentBottom="true"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:padding="5dp"
+            android:weightSum="2">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="bottom"
+                android:orientation="vertical"
+                android:weightSum="8">
+
+                <Button
+                    android:id="@+id/btn_start"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="2dp"
+                    android:background="@drawable/btnbackground"
+                    android:text="@string/btn_start"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tviupcomming"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="bottom"
+                android:orientation="vertical"
+                android:weightSum="8">
+
+                <Button
+                    android:id="@+id/btn_logout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="7dp"
+                    android:layout_marginRight="2dp"
+                    android:background="@drawable/btnbackground"
+                    android:text="@string/btn_Logout"
+
+
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvipast"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

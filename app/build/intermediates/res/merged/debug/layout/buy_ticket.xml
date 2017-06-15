@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:background="#204A60" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#353535"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="18dp"
+            android:background="@drawable/logooo" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviss"
+            android:layout_below="@+id/tviss"
+            android:text="@string/florida"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/small_size" />
+
+        <TextView
+            android:id="@+id/tviCountry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviss"
+            android:layout_below="@+id/tvis"
+            android:text="@string/usa"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/small_size" />
+
+        <TextView
+            android:id="@+id/tviss"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/tvi"
+            android:layout_marginRight="22dp"
+            android:text="@string/ftlauderdale"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/small_size" />
+
+        <TextView
+            android:id="@+id/tvi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviss"
+            android:layout_below="@+id/linearLayout1"
+            android:text="@string/Dalinknet"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/bigsize_size"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout1">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/relativeLayout1">
+
+
+        <EditText
+            android:id="@+id/spnUserName"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:hint="First Name"
+            android:singleLine="true"
+            android:background="@drawable/new33"
+            android:padding="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <EditText
+            android:id="@+id/spnUserLName"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="21dp"
+            android:hint="Last Name"
+            android:singleLine="true"
+            android:background="@drawable/new33"
+            android:padding="10dp"
+            android:layout_below="@+id/spnUserName"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <TextView
+            android:id="@+id/Dob"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:hint="Date of Birth"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:background="@drawable/new33"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:layout_marginTop="21dp"
+            android:layout_below="@+id/spnUserLName"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <EditText
+            android:id="@+id/lino"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:hint="License Number"
+            android:singleLine="true"
+            android:background="@drawable/new33"
+            android:padding="10dp"
+            android:layout_marginTop="21dp"
+            android:layout_below="@+id/Dob"
+            android:layout_alignLeft="@+id/Dob"
+            android:layout_alignStart="@+id/Dob"
+            android:layout_alignRight="@+id/Dob"
+            android:layout_alignEnd="@+id/Dob" />
+
+        <EditText
+            android:id="@+id/emailid"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:hint="Email Address"
+            android:background="@drawable/new33"
+            android:padding="10dp"
+            android:inputType="textEmailAddress"
+            android:singleLine="true"
+            android:layout_below="@+id/lino"
+            android:layout_marginTop="21dp"
+            android:layout_alignRight="@+id/lino"
+            android:layout_alignEnd="@+id/lino"
+            android:layout_alignLeft="@+id/lino"
+            android:layout_alignStart="@+id/lino" />
+        <EditText
+            android:id="@+id/phone"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:hint="Phone Number"
+            android:background="@drawable/new33"
+            android:padding="10dp"
+            android:inputType="phone"
+            android:singleLine="true"
+            android:layout_below="@+id/emailid"
+            android:layout_marginTop="21dp"
+            android:layout_alignRight="@+id/lino"
+            android:layout_alignEnd="@+id/lino"
+            android:layout_alignLeft="@+id/lino"
+            android:layout_alignStart="@+id/lino" />
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/btnbackground"
+            android:text="Submit"
+            android:textColor="@android:color/white"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold"
+            android:layout_below="@+id/phone"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

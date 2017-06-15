@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:background="#204A60" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#353535"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imglla"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/logooo" />
+
+        <TextView
+            android:id="@+id/tviState"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviss"
+            android:layout_below="@+id/tviss"
+            android:text="@string/AllStates"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:id="@+id/tviCountry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviState"
+            android:layout_below="@+id/tviState"
+            android:paddingLeft="20dp"
+            android:text="@string/AllCountry"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:id="@+id/tviss"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/tvi"
+            android:layout_marginRight="18dp"
+            android:text="@string/AllCities"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:id="@+id/tvi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/tviss"
+            android:layout_below="@+id/linearLayout1"
+            android:text="@string/Dalinknet"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/bigsize_size"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imgLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="0dp"
+            android:background="@drawable/key" />
+
+        <ImageView
+            android:id="@+id/imgSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/setting" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:background="#757575"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/relativeLayout1"
+        android:orientation="vertical"
+        android:weightSum="4" >
+
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="3"
+            android:drawSelectorOnTop="true"
+            android:gravity="center"
+            android:listSelector="@drawable/your_selector" >
+        </ListView>
+
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/list"
+            android:layout_weight="1"
+            android:background="#353535"
+            android:orientation="horizontal"
+            android:padding="5dp"
+            android:weightSum="2" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:weightSum="8" >
+
+                <Button
+                    android:id="@+id/btnUpcommingEvents"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="2dp"
+                    android:layout_weight="7"
+                    android:background="@drawable/btnbackground"
+                    android:text="@string/UpcomingEvents"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tviupcomming"
+                    android:layout_width="fill_parent"
+                    android:layout_height="4dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:weightSum="8" >
+
+                <Button
+                    android:id="@+id/btnPastEvents"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="7dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_weight="7"
+                    android:background="@drawable/btnbackground"
+                    android:text="@string/PastEvents"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvipast"
+                    android:layout_width="fill_parent"
+                    android:layout_height="4dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

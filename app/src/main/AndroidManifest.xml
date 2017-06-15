@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.evs.dalinkup.net"
+    android:versionCode="20"
+    android:versionName="1">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />   <!-- Internet permission -->
+    <uses-feature android:name="android.hardware.camera" android:required="true" />
+    <permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />-->
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="com.wellmax.apps.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name="com.evs.dalinkup.net.app.AppController"
+        android:allowBackup="true"
+        android:icon="@mipmap/hdlogo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".Splash"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+
+        <meta-data
+            android:name="com.google.android.gms.vision.DEPENDENCIES"
+            android:value="barcode" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value=" AIzaSyBjsrwc-ZDhcc2VaPixEFSQ24FzRgDIL3I" />
+            <!--android:value="AIzaSyD3Ka3U0D5luFGf4JqkoUQPRMlzdOWKnAE" />-->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <uses-library android:name="com.google.android.maps" />
+
+
+        <activity
+            android:name="com.evs.dalinkup.net.Second"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.evs.dalinkup.net.Disclosure"
+            android:screenOrientation="portrait">
+        </activity>
+        <!--<service-->
+            <!--android:name=".notification_service.MyFirebaseMessagingService">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="com.google.firebase.MESSAGING_EVENT"/>-->
+            <!--</intent-filter>-->
+        <!--</service>-->
+
+        <!--<service android:name=".notification_service.MyFirebaseInstanceIDService">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="com.google.firebase.INSTANCE_ID_EVENT" />-->
+            <!--</intent-filter>-->
+        <!--</service>-->
+
+        <activity
+            android:name=".MyGallery"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name=".Product_Services"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name=".SingleViewActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name=".ConfirmBooking"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.evs.dalinkup.net"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/filepaths" />
+        </provider>
+
+        <activity
+            android:name=".DetailsPage"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="dalinkup.net"
+                    android:scheme="http" />
+                <data
+                    android:host="www.dalinkup.net"
+                    android:scheme="http" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name=".ImageDisplay"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+
+        </activity>
+        <activity android:name=".image_crop.ImageViewActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity android:name=".image_crop.ImageCropActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity android:name=".ScanQR"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity android:name=".Buy_Ticket"
+            android:screenOrientation="portrait"/>
+
+        <!--
+                   GCM Receiver
+               -->
+
+        <service android:name=".fcm.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <service android:name=".fcm.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+
+        <!--<receiver-->
+            <!--android:name="com.google.android.gms.gcm.GcmReceiver"-->
+            <!--android:exported="true"-->
+            <!--android:permission="com.google.android.c2dm.permission.SEND">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="com.google.android.c2dm.intent.RECEIVE"/>-->
+                <!--<category android:name="com.gnirt69.gcmexample"/>-->
+            <!--</intent-filter>-->
+        <!--</receiver>-->
+
+        <!--
+            GCM Receiver Service
+        -->
+
+        <!--
+            GCM Registration Intent Service
+        -->
+        <!--<service android:name=".GCM.GCMRegistrationIntentService" android:exported="false">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="com.google.android.gms.iid.InstanceID"/>-->
+            <!--</intent-filter>-->
+        <!--</service>-->
+        <!--<service android:name=".GCM.GCMPushReceiverService" />-->
+    </application>
+
+</manifest>

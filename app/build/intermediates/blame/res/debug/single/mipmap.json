@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\sp.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\mipmap\\sp.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\ap1.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\mipmap\\ap1.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\ap.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\mipmap\\ap.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\appp.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\mipmap\\appp.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\app_icon_.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\mipmap\\app_icon_.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\splash3.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\mipmap\\splash3.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\ic_launcher.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\mipmap\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\hdlogo.png",
+        "source": "D:\\Azhar\\Android App Projects\\Dalinkup_azhar\\app\\src\\main\\res\\mipmap\\hdlogo.png"
+    }
+]
